@@ -12,4 +12,5 @@ void setup() {
 void loop() {
   Serial.println("Hello from ESP32 ");
   delay(1000);
+  Serial.print("neue funktion verfügbar !!");
 }
